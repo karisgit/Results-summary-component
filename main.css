@@ -267,7 +267,7 @@ a:any-link {
   width: 100%;
   height: 56px;
   padding: 1.06rem 7.5rem 1rem 7.5rem;
-  background-color: var(--GRADIENT-1);
+  background-color: var(--DARK-NAVY);
   color: white;
   border-radius: 128px;
   font: var(--BODY-BOLD);
@@ -324,15 +324,15 @@ a:any-link {
     gap: 0.875rem;
   }
 
-  .card-summary__title {
+   .card-summary__title {
     font: var(--HEADING-L);
   }
 
-  .card-summary__sub-text {
+    .card-summary__sub-text {
     font: var(--BODY);
   }
 
-  /* || CARD-SUMMARY-DETAILS */
+   /* || CARD-SUMMARY-DETAILS */
   .card-summary__details {
     gap: 0rem;
     margin: 2.38rem 2.5rem 2.88rem 2.5rem;
